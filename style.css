@@ -59,16 +59,18 @@
   margin: 0;
 }
 
-@media (max-width: 750px) {
+@media (max-width: 800px) {
 /* #sidebar {
     margin-left: -17rem;
-  }
+  }*/
   #sidebar.active {
     margin-left: 0;
-  } */
+  }
   #sidebarCollapse{
     visibility: visible;
   }
+
+
 
   #content {
     width: 100%;
