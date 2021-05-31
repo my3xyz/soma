@@ -60,9 +60,9 @@
 }
 
 @media (max-width: 800px) {
-/* #sidebar {
+#sidebar {
     margin-left: -17rem;
-  }*/
+  }
   #sidebar.active {
     margin-left: 0;
   }
